@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Houda 
-- 👀 I’m interested in computers 
-- 🌱 I’m currently learning Frontend 
+- 🌱 I’m currently learning Frontend development 
 
 
 <!---
