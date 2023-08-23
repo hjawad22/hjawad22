@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Houda 
-- 🌱 I’m currently learning Frontend development 
+- 🌱 I’m currently learning Typescript!
 
 
 <!---
