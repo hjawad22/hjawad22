@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Houda 
-- 🌱 I’m currently learning Typescript!
+- 👋 Hi, I’m Houda
+- 🤝 I thrive on working with people and teams
+- 🔧 Lifelong tinkerer, always exploring and learning
+- 🌱 Currently delving into the world of TypeScript!
 
 
 <!---
