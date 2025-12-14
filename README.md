@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Houda
+👋 Hi, I’m Houda
 
 - 🤖 Aspiring roboticist learning ROS2, C++, and Linux
 - 🔧 Lifelong tinkerer who enjoys building, breaking, and fixing things
