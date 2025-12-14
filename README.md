@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Houda
-- 🤝 I thrive on working with people and teams
-- 🔧 Lifelong tinkerer, always exploring and learning
-- 🌱 Currently delving into the world of TypeScript!
+👋 Hi, I’m Houda
+
+🤖 Aspiring roboticist learning ROS2, C++, and Linux
+🔧 Lifelong tinkerer who enjoys building, breaking, and fixing things
+🤝 Enjoy working with others and learning through collaboration
+🌱 Currently exploring robotics software, virtual machines, and embedded systems
 
 
 <!---
