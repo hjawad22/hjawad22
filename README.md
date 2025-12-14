@@ -1,9 +1,9 @@
-👋 Hi, I’m Houda
+- 👋 Hi, I’m Houda
 
-🤖 Aspiring roboticist learning ROS2, C++, and Linux
-🔧 Lifelong tinkerer who enjoys building, breaking, and fixing things
-🤝 Enjoy working with others and learning through collaboration
-🌱 Currently exploring robotics software, virtual machines, and embedded systems
+- 🤖 Aspiring roboticist learning ROS2, C++, and Linux
+- 🔧 Lifelong tinkerer who enjoys building, breaking, and fixing things
+- 🤝 Enjoy working with others and learning through collaboration
+- 🌱 Currently exploring robotics software, virtual machines, and embedded systems
 
 
 <!---
